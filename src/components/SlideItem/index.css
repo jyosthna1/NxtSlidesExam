@@ -1,0 +1,43 @@
+.slide-number-container {
+  display: flex;
+
+  padding: 20px;
+}
+.slide-container-item {
+  background-color: #ffffff;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  width: 80%;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 40px;
+}
+.slide-number {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  padding-right: 10px;
+  color: #0f172a;
+  margin-left: 10px;
+}
+.slider-head {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  font-weight: 500;
+  color: #0967d2;
+  text-align: center;
+  margin: 0px;
+}
+.description {
+  font-family: 'Bree Serif';
+  font-size: 12px;
+  color: #0f172a;
+  margin: 0px;
+  text-align: center;
+}
+.background-lightBlue {
+  background-color: #dbeafe;
+}
+.transparent {
+  background-color: transparent;
+}
